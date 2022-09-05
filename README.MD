@@ -6,7 +6,8 @@
     - Margin & Padding
     - Tailblocks
     - Mamba UI
-It Was a Great Experience Completing This Project After Continuous Frustrating Hardwork Completed in 20hrs.
+    It Was a Great Experience Completing This Project After
+    Continuous Frustrating Hardwork Completed in 20hrs.
 
 ## Paytm Clone Screenshots
 ![image](./Screenshot/Paytm%20Clone%2001.png)
